@@ -1,0 +1,10 @@
+{
+    "name" : "Piyush",
+    "isTeacher" : true,
+    "address" : {
+        "city" : "Jabalpur",
+        "State" : "MP",
+        "Country" : "India"
+    },
+    "subjects" : ["Python", "CPP", "C", "AI/ML"]
+}
